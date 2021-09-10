@@ -1,4 +1,4 @@
-package br.com.dio.coinconverter.ui
+package br.com.dio.coinconverter.ui.main
 
 import android.content.Intent
 import android.os.Bundle
